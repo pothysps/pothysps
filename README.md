@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm POTHYS Muruganantham</h1>
 <h3 align="center">A passionate Hardware and Network Engineer from India</h3>
 

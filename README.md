@@ -1,15 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm SURYAPRAKASH PICHAIYA</h1>
-<h3 align="center">A passionate CYBERSECURITY RESEARCHER from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaprakash251201&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakash251201" /> </p>
+<h1 align="center">Hi 👋, I'm POTHYS Muruganantham</h1>
+<h3 align="center">A passionate Hardware and Network Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaprakash251201" alt="suryaprakash251201" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/suryaprakash2k" target="blank"><img src="https://img.shields.io/twitter/follow/suryaprakash2k?logo=twitter&style=for-the-badge" alt="suryaprakash2k" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/suryaprakash2k?logo=twitter&style=for-the-badge" alt="suryaprakash2k" /></a> </p>
 
-- 🔭 I’m currently working on [cytroksys](https://github.com/users/suryaprakash251201/projects/1)
+- 🔭 I’m currently working on [SSM CORPORATE]
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
